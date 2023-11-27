@@ -6,5 +6,4 @@
 DELTAfitness is a  reponsive webite build using HTML, CSS and Javascript. 
 
 ### Live Demo
-
-https://DELTAfitness.netlify.app/
+file:///D:/repo/myworkspace/GYM_WEBSITE/responsive-website-gym/index.html
